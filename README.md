@@ -12,10 +12,14 @@ A **Streamlit-based** application that visualizes how different tokenization tec
 - **Unicode and Special Character Handling**: Handles complex characters like Unicode with ease, giving accurate tokenization insights.
 - **Streamlit UI**: A simple, user-friendly interface built on Streamlit for seamless interaction and learning.
 
-## Demo
+## App is live!
 
 <!-- If available, replace with a demo GIF or image -->
 <!-- ![Demo GIF](demo.gif) -->
+
+Check out the live version of this app deployed on Streamlit: [Token Visualizer](https://token-visualizer.streamlit.app)
+
+
 
 ## How to Use
 
